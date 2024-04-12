@@ -1,3 +1,6 @@
+#La salida no es legible: debería ser un solo valor, algo así como "la solución aproximada  al PVI es y = ..." sin que aparezcan
+#los valores intermedios porque se torna confusa la lectura de la salida. recordá también agregar la solución exacta y el error de la
+#aproximación. Cuando lo actualices con estos detalles avisame así entro a mirar.
 import sympy as sp
 import numpy as np
 
